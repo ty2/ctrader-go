@@ -1,0 +1,3 @@
+[submodule "protodef"]
+	path = protodef
+	url = https://github.com/spotware/openapi-proto-messages.git
