@@ -2,4 +2,4 @@
 A Golang package for interacting with cTrader Open API.
 
 # Usage
-Please check the `client_test.go` to see how to use the package.
+Please take a look in `client_test.go`.
